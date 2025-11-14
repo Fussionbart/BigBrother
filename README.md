@@ -18,7 +18,7 @@ git clone https://github.com/fussionbart/bigbrother.git
 cd bigbrother-scanner
 
 2. Install dependencies
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 3. Launch
 python3 main.py
