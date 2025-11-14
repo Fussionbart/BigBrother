@@ -1,0 +1,4 @@
+prompt-toolkit>=3.0.0
+dnspython>=2.0.0
+asyncio>=3.4.3
+typing-extensions>=4.0.0
